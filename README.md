@@ -8,4 +8,4 @@ These neural networks are implemented using [Tensorflow](https://www.tensorflow.
 ### Implementations
 | | Name |
 | ------- | ----------- |
-| 1 | [Lenet5]() | 
+| 1 | [Lenet5](https://github.com/swarajpande4/nn/tree/main/Lenet5) | 
